@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-🚀 **Live App:** https://student-performer-ml.streamlit.app
+🚀 **Live App:** [https://student-performer-ml.streamlit.app](https://student-performer-ml-jfumec8wslfbefy47jq6gh.streamlit.app/)
 
 A Machine Learning powered Streamlit web application that predicts a student's final academic performance based on:
 
