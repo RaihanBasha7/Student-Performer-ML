@@ -48,6 +48,12 @@ Student-Performer-ML/
 
 ---
 
+#👨‍💻 Author
+Shaik Raihan Basha
+ML + Streamlit Project
+
+---
+
 # ▶️ How to Run Locally
 ```bash
 pip install -r requirements.txt
@@ -58,6 +64,4 @@ git add README.md
 git commit -m "Add live app link and complete project documentation"
 git push
 
-👨‍💻 Author
-Shaik Raihan Basha
-ML + Streamlit Project
+---
