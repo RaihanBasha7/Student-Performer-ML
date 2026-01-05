@@ -48,9 +48,9 @@ Student-Performer-ML/
 
 ---
 
-#👨‍💻 Author
-Shaik Raihan Basha
-ML + Streamlit Project
+# 👨‍💻 Author
+- Shaik Raihan Basha
+- ML + Streamlit Project
 
 ---
 
